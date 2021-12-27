@@ -26,3 +26,8 @@
 * more+20 testfile 從第20行開始顯示testfile文檔內容
 * head-n 取前面幾行數字
 * tail-n 取後面幾行數字
+##sed指令
+＊-a 新增
+* -c 取代
+* -d 刪除
+* -i(用mac的要加才能執行）
